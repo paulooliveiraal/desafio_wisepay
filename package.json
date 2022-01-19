@@ -1,0 +1,27 @@
+{
+  "name": "desafio_wisepay",
+  "version": "1.0.0",
+  "description": "desafio trainee backend wisepay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulooliveiraal/desafio_wisepay.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulooliveiraal/desafio_wisepay/issues"
+  },
+  "homepage": "https://github.com/paulooliveiraal/desafio_wisepay#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "config": "^3.3.7",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
